@@ -1,0 +1,409 @@
+isolate_id,patient_id,collected,specimen,organism,ciprofloxacin,ceftriaxone,mic_cipro,temp_c
+ISO-0001,P0114,26/03/2025,BLOOD,E. coli,R,S,<=0.06,36.8
+ISO-0002,P0212,10/04/2025,urine ,P. aeruginosa,R,R,2,37.0
+ISO-0003,P0019,24/06/2025,BLOOD,E. coli,S,S,0.5,37.6
+ISO-0004,P0097,19/05/2025,Wound swab,S. aureus,R,R,0.25,37.9
+ISO-0005,P0038,18/02/2025,Wound swab,K. pneumoniae,S,S,1,38.6
+ISO-0006,P0062,13/04/2025,Wound swab,P. aeruginosa,I,S,2,37.1
+ISO-0007,P0257,25/12/2025,Wound swab,K. pneumoniae,S,S,not done,37.3
+ISO-0008,P0210,24/08/2025,Stool,S. aureus,R,S,not done,37.8
+ISO-0009,P0095,01/05/2025,BLOOD,E. coli,I,S,2,38.8
+ISO-0010,P0069,01/12/2025,Blood,E. coli,r,R,<=0.06,37.2
+ISO-0011,P0072,31/03/2025,Wound swab,S. aureus,R,n/a,<=0.06,38.1
+ISO-0012,P0206,02/10/2025,Urine,E. coli,S,n/a,1,36.6
+ISO-0013,P0241,19/08/2025,BLOOD,E. coli,R,R,<=0.06,38.0
+ISO-0014,P0136,17/11/2025,Stool,K. pneumoniae,r,R,>4,38.0
+ISO-0015,P0018,01/06/2025,Blood,S. aureus,I,R,0.5,38.1
+ISO-0016,P0154,24/02/2025,urine ,K. pneumoniae,R,R,<=0.06,38.8
+ISO-0017,P0199,05/06/2025,Wound swab,E. coli,r,S,not done,37.5
+ISO-0018,P0011,27/05/2025,Wound swab,P. aeruginosa,S,I,<=0.06,38.2
+ISO-0019,P0147,13/11/2025,Blood,K. pneumoniae,S,R,1,36.8
+ISO-0020,P0123,23/03/2025,Stool,E. coli,,R,0.5,36.5
+ISO-0021,P0202,22/12/2025,BLOOD,S. aureus,s,S,>4,37.6
+ISO-0022,P0069,17/10/2025,BLOOD,S. aureus,R,S,0.5,37.4
+ISO-0023,P0171,20/08/2025,BLOOD,E. coli,S,I,2,39.1
+ISO-0024,P0005,17/04/2025,BLOOD,S. aureus,R,n/a,>4,38.2
+ISO-0025,P0153,26/04/2025,Wound swab,K. pneumoniae,R,I,not done,38.9
+ISO-0026,P0152,18/03/2025,urine ,E. coli,S,R,not done,38.0
+ISO-0027,P0111,09/03/2025,Blood,S. aureus,S,S,0.5,38.4
+ISO-0028,P0008,27/06/2025,Urine,K. pneumoniae,S,R,0.25,999.0
+ISO-0029,P0297,29/07/2025,Stool,S. aureus,r,S,2,38.2
+ISO-0030,P0091,22/10/2025,Urine,P. aeruginosa,S,I,2,37.1
+ISO-0031,P0141,09/09/2025,Blood,E. coli,S,n/a,not done,37.2
+ISO-0032,P0031,27/01/2025,Wound swab,E. coli,S,R,not done,35.5
+ISO-0033,P0123,28/12/2025,Blood,S. aureus,R,R,0.25,37.9
+ISO-0034,P0202,30/04/2025,urine ,S. aureus,S,S,2,38.4
+ISO-0035,P0287,25/03/2025,Urine,E. coli,S,S,not done,38.2
+ISO-0036,P0026,05/05/2025,Blood,E. coli,R,I,0.5,37.8
+ISO-0037,P0259,22/01/2025,Urine,K. pneumoniae,S,R,0.25,37.2
+ISO-0038,P0246,01/03/2025,BLOOD,P. aeruginosa,R,R,1,35.5
+ISO-0039,P0239,18/02/2025,urine ,S. aureus,R,S,0.25,36.6
+ISO-0040,P0135,09/04/2025,Stool,P. aeruginosa,S,S,0.25,37.5
+ISO-0041,P0157,01/10/2025,urine ,K. pneumoniae,S,R,>4,38.2
+ISO-0042,P0140,18/05/2025,BLOOD,S. aureus,S,R,<=0.06,38.7
+ISO-0043,P0296,19/09/2025,BLOOD,P. aeruginosa,S,S,0.5,38.6
+ISO-0044,P0239,11/12/2025,BLOOD,K. pneumoniae,s,S,2,37.0
+ISO-0045,P0187,14/12/2025,urine ,P. aeruginosa,,R,>4,37.4
+ISO-0046,P0022,24/10/2025,Wound swab,E. coli,S,S,>4,36.4
+ISO-0047,P0065,01/10/2025,Urine,K. pneumoniae,r,S,<=0.06,35.9
+ISO-0048,P0114,26/07/2025,urine ,E. coli,S,R,0.5,36.8
+ISO-0049,P0135,17/01/2025,urine ,E. coli,S,S,1,36.9
+ISO-0050,P0075,27/11/2025,Wound swab,K. pneumoniae,S,S,<=0.06,36.8
+ISO-0051,P0213,24/05/2025,Blood,S. aureus,S,R,<=0.06,38.3
+ISO-0052,P0146,16/07/2025,Urine,S. aureus,S,S,1,38.9
+ISO-0053,P0172,11/06/2025,Wound swab,P. aeruginosa,S,S,2,36.9
+ISO-0054,P0250,18/06/2025,Urine,E. coli,,S,>4,39.1
+ISO-0055,P0222,01/11/2025,urine ,S. aureus,r,R,0.5,36.1
+ISO-0056,P0241,08/11/2025,Stool,S. aureus,R,S,1,38.0
+ISO-0057,P0125,22/02/2025,Stool,P. aeruginosa,R,S,not done,38.1
+ISO-0058,P0074,26/11/2025,urine ,E. coli,R,n/a,not done,36.3
+ISO-0059,P0174,01/10/2025,urine ,K. pneumoniae,S,S,2,38.5
+ISO-0060,P0160,22/07/2025,Blood,E. coli,S,n/a,>4,37.3
+ISO-0061,P0083,12/02/2025,Wound swab,E. coli,R,R,0.5,37.8
+ISO-0062,P0233,09/03/2025,Urine,K. pneumoniae,R,R,0.25,38.6
+ISO-0063,P0184,14/11/2025,Wound swab,S. aureus,R,I,not done,38.2
+ISO-0064,P0160,28/07/2025,urine ,S. aureus,S,S,<=0.06,37.2
+ISO-0065,P0251,21/04/2025,Stool,P. aeruginosa,S,R,0.5,37.6
+ISO-0066,P0211,25/01/2025,Stool,E. coli,R,S,1,39.2
+ISO-0067,P0015,07/01/2025,Urine,E. coli,R,n/a,2,36.0
+ISO-0068,P0050,30/12/2025,Stool,K. pneumoniae,,S,0.5,38.5
+ISO-0069,P0157,11/12/2025,Urine,P. aeruginosa,s,n/a,2,38.5
+ISO-0070,P0186,29/05/2025,BLOOD,P. aeruginosa,R,R,>4,39.3
+ISO-0071,P0279,16/08/2025,Stool,E. coli,R,R,not done,38.8
+ISO-0072,P0058,25/08/2025,urine ,E. coli,S,R,2,36.2
+ISO-0073,P0243,18/01/2025,Urine,K. pneumoniae,R,R,0.5,38.1
+ISO-0074,P0122,13/04/2025,Stool,S. aureus,S,R,1,37.9
+ISO-0075,P0064,16/06/2025,Blood,S. aureus,S,S,not done,38.4
+ISO-0076,P0090,01/07/2025,Wound swab,E. coli,S,R,0.25,39.3
+ISO-0077,P0299,19/03/2025,BLOOD,K. pneumoniae,,S,0.5,37.9
+ISO-0078,P0100,12/12/2025,Urine,E. coli,R,S,<=0.06,37.4
+ISO-0079,P0148,15/12/2025,Blood,P. aeruginosa,S,S,not done,37.4
+ISO-0080,P0186,09/11/2025,Wound swab,E. coli,I,S,0.5,38.6
+ISO-0081,P0090,15/10/2025,urine ,E. coli,S,n/a,2,36.7
+ISO-0082,P0287,15/08/2025,Blood,P. aeruginosa,S,S,0.25,38.2
+ISO-0083,P0266,13/01/2025,BLOOD,S. aureus,R,S,0.25,37.9
+ISO-0084,P0278,20/12/2025,Urine,E. coli,S,I,2,36.0
+ISO-0085,P0210,02/04/2025,BLOOD,E. coli,S,R,>4,38.1
+ISO-0086,P0114,21/06/2025,urine ,P. aeruginosa,R,S,0.25,36.6
+ISO-0087,P0173,11/06/2025,Stool,S. aureus,s,S,>4,39.4
+ISO-0088,P0067,04/09/2025,BLOOD,P. aeruginosa,S,n/a,>4,36.8
+ISO-0089,P0002,22/12/2025,BLOOD,P. aeruginosa,R,S,<=0.06,38.5
+ISO-0090,P0187,22/07/2025,BLOOD,E. coli,S,S,1,37.4
+ISO-0091,P0181,05/02/2025,Wound swab,E. coli,,I,1,36.7
+ISO-0092,P0221,22/07/2025,Stool,K. pneumoniae,S,n/a,0.5,38.0
+ISO-0093,P0025,01/10/2025,Blood,E. coli,R,n/a,0.25,36.4
+ISO-0094,P0201,05/04/2025,Blood,E. coli,S,S,0.5,37.4
+ISO-0095,P0148,07/08/2025,Wound swab,P. aeruginosa,S,S,<=0.06,38.9
+ISO-0096,P0135,06/01/2025,Blood,S. aureus,r,I,not done,37.3
+ISO-0097,P0084,21/12/2025,urine ,P. aeruginosa,S,R,1,39.6
+ISO-0098,P0177,18/03/2025,Stool,E. coli,S,S,<=0.06,38.6
+ISO-0099,P0159,18/11/2025,Stool,P. aeruginosa,S,S,1,36.2
+ISO-0100,P0296,02/06/2025,BLOOD,E. coli,S,S,0.25,39.6
+ISO-0101,P0212,13/04/2025,Stool,K. pneumoniae,R,R,1,39.1
+ISO-0102,P0023,27/02/2025,BLOOD,S. aureus,r,R,not done,35.8
+ISO-0103,P0014,06/11/2025,BLOOD,E. coli,S,I,<=0.06,37.3
+ISO-0104,P0246,14/10/2025,urine ,K. pneumoniae,R,S,<=0.06,39.3
+ISO-0105,P0223,28/08/2025,Urine,P. aeruginosa,R,R,not done,37.5
+ISO-0106,P0077,23/11/2025,Wound swab,S. aureus,S,R,0.5,37.6
+ISO-0107,P0061,01/11/2025,BLOOD,E. coli,S,S,0.5,36.8
+ISO-0108,P0186,01/06/2025,Wound swab,E. coli,R,S,<=0.06,37.6
+ISO-0109,P0232,03/04/2025,BLOOD,E. coli,S,R,1,38.1
+ISO-0110,P0276,14/10/2025,BLOOD,P. aeruginosa,S,n/a,>4,39.3
+ISO-0111,P0141,12/02/2025,Urine,E. coli,R,n/a,not done,37.0
+ISO-0112,P0264,02/11/2025,Blood,E. coli,I,S,1,37.7
+ISO-0113,P0121,10/10/2025,Stool,E. coli,S,R,1,39.2
+ISO-0114,P0014,22/07/2025,BLOOD,E. coli,S,R,2,38.1
+ISO-0115,P0151,11/07/2025,Wound swab,E. coli,R,S,>4,36.5
+ISO-0116,P0275,03/12/2025,Wound swab,E. coli,r,R,>4,38.4
+ISO-0117,P0146,01/03/2025,BLOOD,E. coli,,I,2,38.0
+ISO-0118,P0145,20/11/2025,Wound swab,S. aureus,I,R,0.25,36.1
+ISO-0119,P0133,20/06/2025,Stool,S. aureus,S,R,0.5,38.9
+ISO-0120,P0014,03/02/2025,Stool,K. pneumoniae,R,R,0.5,36.4
+ISO-0121,P0237,28/11/2025,Urine,E. coli,R,S,not done,38.7
+ISO-0122,P0060,27/07/2025,Blood,P. aeruginosa,S,S,2,37.8
+ISO-0123,P0186,26/05/2025,Stool,K. pneumoniae,S,R,0.25,999.0
+ISO-0124,P0157,06/12/2025,BLOOD,E. coli,R,R,0.25,36.5
+ISO-0125,P0095,24/11/2025,urine ,S. aureus,S,R,0.5,36.9
+ISO-0126,P0042,29/09/2025,BLOOD,P. aeruginosa,s,S,<=0.06,37.7
+ISO-0127,P0029,22/03/2025,Urine,P. aeruginosa,R,R,0.25,37.1
+ISO-0128,P0053,15/03/2025,BLOOD,E. coli,S,S,0.5,36.6
+ISO-0129,P0103,22/10/2025,urine ,E. coli,S,S,1,37.2
+ISO-0130,P0259,21/08/2025,Blood,P. aeruginosa,R,R,0.25,36.8
+ISO-0131,P0058,13/06/2025,BLOOD,K. pneumoniae,S,R,1,37.7
+ISO-0132,P0045,25/05/2025,BLOOD,P. aeruginosa,S,R,not done,36.9
+ISO-0133,P0115,24/03/2025,BLOOD,S. aureus,S,S,>4,34.7
+ISO-0134,P0252,07/04/2025,Blood,S. aureus,S,S,0.5,39.2
+ISO-0135,P0286,03/10/2025,Urine,P. aeruginosa,S,I,<=0.06,37.6
+ISO-0136,P0158,02/10/2025,BLOOD,P. aeruginosa,,S,<=0.06,38.2
+ISO-0137,P0152,07/09/2025,Urine,P. aeruginosa,R,S,1,35.7
+ISO-0138,P0048,02/03/2025,urine ,E. coli,I,S,2,36.5
+ISO-0139,P0130,13/12/2025,Wound swab,S. aureus,R,S,1,37.6
+ISO-0140,P0252,20/09/2025,Stool,E. coli,S,R,2,39.7
+ISO-0141,P0283,30/07/2025,Blood,P. aeruginosa,R,R,2,38.0
+ISO-0142,P0059,04/06/2025,urine ,S. aureus,R,R,2,37.2
+ISO-0143,P0128,27/12/2025,Blood,K. pneumoniae,S,R,<=0.06,37.8
+ISO-0144,P0024,30/06/2025,Stool,E. coli,S,R,<=0.06,36.2
+ISO-0145,P0072,01/04/2025,Stool,E. coli,S,R,>4,36.6
+ISO-0146,P0290,25/03/2025,Wound swab,E. coli,,S,not done,38.4
+ISO-0147,P0055,27/01/2025,BLOOD,P. aeruginosa,s,R,0.25,37.7
+ISO-0148,P0128,07/06/2025,Wound swab,K. pneumoniae,S,I,>4,37.8
+ISO-0149,P0085,26/01/2025,Urine,E. coli,S,S,<=0.06,38.7
+ISO-0150,P0233,28/12/2025,BLOOD,E. coli,R,S,<=0.06,37.8
+ISO-0151,P0240,30/09/2025,Urine,E. coli,S,S,not done,36.1
+ISO-0152,P0197,26/08/2025,Wound swab,S. aureus,r,S,not done,39.1
+ISO-0153,P0070,09/09/2025,Wound swab,S. aureus,,S,0.25,38.2
+ISO-0154,P0218,19/11/2025,Wound swab,E. coli,R,S,<=0.06,38.6
+ISO-0155,P0166,21/11/2025,urine ,E. coli,S,S,not done,37.1
+ISO-0156,P0105,13/11/2025,BLOOD,E. coli,R,S,>4,38.0
+ISO-0157,P0253,01/04/2025,BLOOD,S. aureus,s,R,2,39.1
+ISO-0158,P0066,19/09/2025,Urine,E. coli,R,S,0.25,37.0
+ISO-0159,P0153,28/06/2025,BLOOD,E. coli,I,R,0.25,38.4
+ISO-0160,P0147,13/02/2025,Blood,E. coli,R,S,0.5,38.9
+ISO-0161,P0186,12/04/2025,urine ,S. aureus,S,S,>4,39.4
+ISO-0162,P0177,28/09/2025,urine ,P. aeruginosa,R,S,1,36.5
+ISO-0163,P0107,28/05/2025,BLOOD,E. coli,S,S,0.5,36.6
+ISO-0164,P0226,15/06/2025,Stool,P. aeruginosa,,R,0.25,36.9
+ISO-0165,P0181,18/02/2025,urine ,K. pneumoniae,R,S,<=0.06,37.6
+ISO-0166,P0192,18/10/2025,Blood,S. aureus,S,R,2,37.5
+ISO-0167,P0187,12/07/2025,Urine,S. aureus,S,S,<=0.06,37.7
+ISO-0168,P0153,15/07/2025,Wound swab,E. coli,S,R,0.5,38.1
+ISO-0169,P0191,28/11/2025,Blood,E. coli,,S,not done,36.9
+ISO-0170,P0288,08/02/2025,urine ,E. coli,R,R,1,38.1
+ISO-0171,P0272,04/06/2025,Stool,S. aureus,I,S,0.25,36.6
+ISO-0172,P0104,14/06/2025,Stool,E. coli,S,R,0.5,37.4
+ISO-0173,P0179,10/10/2025,Stool,S. aureus,R,S,0.25,36.2
+ISO-0174,P0029,19/02/2025,Stool,K. pneumoniae,R,R,2,39.2
+ISO-0175,P0195,04/01/2025,urine ,K. pneumoniae,S,S,0.25,999.0
+ISO-0176,P0296,12/10/2025,BLOOD,E. coli,r,R,1,37.1
+ISO-0177,P0067,09/08/2025,Stool,S. aureus,S,S,<=0.06,36.2
+ISO-0178,P0206,18/06/2025,Stool,K. pneumoniae,s,S,2,38.1
+ISO-0179,P0056,07/04/2025,Blood,S. aureus,R,S,1,38.2
+ISO-0180,P0193,29/11/2025,Blood,E. coli,r,S,0.5,37.4
+ISO-0181,P0048,01/12/2025,Wound swab,K. pneumoniae,I,R,0.25,36.6
+ISO-0182,P0033,24/02/2025,Urine,E. coli,R,R,not done,36.2
+ISO-0183,P0069,07/04/2025,urine ,K. pneumoniae,R,S,2,36.8
+ISO-0184,P0236,22/05/2025,Stool,E. coli,S,R,2,37.6
+ISO-0185,P0299,23/08/2025,Urine,P. aeruginosa,S,S,2,38.8
+ISO-0186,P0177,01/03/2025,urine ,S. aureus,S,n/a,0.25,38.0
+ISO-0187,P0121,06/05/2025,Stool,P. aeruginosa,S,S,<=0.06,38.7
+ISO-0188,P0164,31/01/2025,BLOOD,K. pneumoniae,S,R,1,37.6
+ISO-0189,P0259,10/01/2025,BLOOD,E. coli,S,R,2,37.5
+ISO-0190,P0169,15/03/2025,Stool,K. pneumoniae,S,S,0.25,38.0
+ISO-0191,P0045,04/02/2025,BLOOD,K. pneumoniae,S,R,1,999.0
+ISO-0192,P0088,11/01/2025,urine ,E. coli,R,R,>4,37.0
+ISO-0193,P0198,29/04/2025,Wound swab,K. pneumoniae,S,R,0.25,38.3
+ISO-0194,P0096,19/03/2025,BLOOD,E. coli,R,R,0.5,37.9
+ISO-0195,P0137,02/06/2025,BLOOD,P. aeruginosa,I,R,1,37.1
+ISO-0196,P0172,28/07/2025,BLOOD,E. coli,S,R,not done,38.2
+ISO-0197,P0226,26/12/2025,urine ,P. aeruginosa,s,S,1,37.1
+ISO-0198,P0087,11/06/2025,BLOOD,K. pneumoniae,,S,0.25,37.5
+ISO-0199,P0238,25/11/2025,Stool,S. aureus,R,S,1,37.2
+ISO-0200,P0250,10/01/2025,BLOOD,K. pneumoniae,R,R,2,37.7
+ISO-0201,P0090,28/02/2025,Wound swab,E. coli,S,R,not done,38.4
+ISO-0202,P0229,04/03/2025,Blood,S. aureus,S,S,1,36.4
+ISO-0203,P0077,12/10/2025,Urine,K. pneumoniae,R,R,<=0.06,38.0
+ISO-0204,P0005,13/01/2025,Blood,E. coli,S,S,0.5,37.4
+ISO-0205,P0105,21/05/2025,Urine,S. aureus,,R,0.5,37.0
+ISO-0206,P0054,14/09/2025,Wound swab,P. aeruginosa,S,R,not done,36.5
+ISO-0207,P0169,29/03/2025,Stool,K. pneumoniae,R,R,<=0.06,38.2
+ISO-0208,P0285,11/04/2025,Stool,S. aureus,S,R,0.5,37.3
+ISO-0209,P0126,19/06/2025,BLOOD,E. coli,r,S,<=0.06,37.9
+ISO-0210,P0013,31/10/2025,Stool,E. coli,S,S,not done,37.9
+ISO-0211,P0213,17/04/2025,Blood,P. aeruginosa,S,I,not done,39.0
+ISO-0212,P0246,22/05/2025,Blood,E. coli,S,S,2,39.0
+ISO-0213,P0009,26/11/2025,Wound swab,K. pneumoniae,R,I,not done,38.5
+ISO-0214,P0180,04/09/2025,urine ,E. coli,R,S,<=0.06,38.5
+ISO-0215,P0263,06/05/2025,Wound swab,P. aeruginosa,S,R,2,39.7
+ISO-0216,P0275,06/09/2025,BLOOD,K. pneumoniae,S,R,0.5,38.0
+ISO-0217,P0221,06/05/2025,BLOOD,E. coli,R,S,0.5,38.3
+ISO-0218,P0145,18/10/2025,Wound swab,K. pneumoniae,R,R,>4,38.2
+ISO-0219,P0259,02/02/2025,Urine,P. aeruginosa,R,S,2,37.1
+ISO-0220,P0032,28/07/2025,Wound swab,E. coli,R,S,>4,37.7
+ISO-0221,P0185,14/09/2025,Wound swab,E. coli,R,R,not done,37.8
+ISO-0222,P0144,08/05/2025,Urine,E. coli,I,S,0.5,37.9
+ISO-0223,P0069,15/06/2025,Stool,E. coli,R,R,>4,37.9
+ISO-0224,P0227,27/01/2025,Stool,S. aureus,R,R,not done,37.6
+ISO-0225,P0170,07/03/2025,BLOOD,S. aureus,R,I,0.25,38.3
+ISO-0226,P0050,18/01/2025,Blood,E. coli,R,R,<=0.06,36.6
+ISO-0227,P0015,12/11/2025,Stool,P. aeruginosa,S,S,<=0.06,38.1
+ISO-0228,P0090,05/07/2025,urine ,K. pneumoniae,S,n/a,<=0.06,37.0
+ISO-0229,P0106,27/02/2025,Stool,P. aeruginosa,S,S,0.5,35.8
+ISO-0230,P0091,07/11/2025,BLOOD,P. aeruginosa,r,n/a,0.25,36.3
+ISO-0231,P0294,11/05/2025,Stool,E. coli,R,S,0.25,37.6
+ISO-0232,P0269,31/03/2025,Blood,K. pneumoniae,S,R,>4,38.3
+ISO-0233,P0207,04/11/2025,urine ,E. coli,r,R,0.25,37.2
+ISO-0234,P0097,03/11/2025,Wound swab,P. aeruginosa,R,R,>4,37.6
+ISO-0235,P0170,14/12/2025,BLOOD,P. aeruginosa,,R,>4,38.1
+ISO-0236,P0008,09/05/2025,Wound swab,E. coli,S,S,1,37.3
+ISO-0237,P0133,29/09/2025,Blood,P. aeruginosa,S,S,>4,38.2
+ISO-0238,P0266,21/12/2025,Stool,E. coli,S,R,0.5,38.9
+ISO-0239,P0001,04/08/2025,Wound swab,S. aureus,S,S,0.5,38.7
+ISO-0240,P0292,07/11/2025,Wound swab,S. aureus,S,S,0.5,999.0
+ISO-0241,P0195,23/11/2025,Blood,E. coli,S,S,<=0.06,36.7
+ISO-0242,P0221,04/02/2025,Stool,K. pneumoniae,R,R,not done,39.4
+ISO-0243,P0031,02/11/2025,Urine,S. aureus,S,S,0.25,38.7
+ISO-0244,P0038,30/08/2025,urine ,P. aeruginosa,S,S,0.5,39.0
+ISO-0245,P0220,20/08/2025,Blood,S. aureus,S,R,0.25,38.0
+ISO-0246,P0180,27/11/2025,BLOOD,P. aeruginosa,,I,0.25,37.2
+ISO-0247,P0045,24/12/2025,Urine,E. coli,R,R,1,38.3
+ISO-0248,P0269,25/04/2025,Blood,E. coli,S,R,0.25,36.7
+ISO-0249,P0120,19/05/2025,Stool,S. aureus,S,R,>4,37.5
+ISO-0250,P0234,08/07/2025,Wound swab,S. aureus,I,S,1,38.2
+ISO-0251,P0089,16/01/2025,Urine,K. pneumoniae,R,S,0.25,37.9
+ISO-0252,P0260,23/10/2025,Wound swab,K. pneumoniae,R,R,0.25,37.0
+ISO-0253,P0054,27/01/2025,urine ,E. coli,R,S,>4,38.2
+ISO-0254,P0114,23/07/2025,Blood,S. aureus,R,R,0.25,37.5
+ISO-0255,P0250,14/12/2025,urine ,E. coli,,n/a,not done,38.3
+ISO-0256,P0298,13/10/2025,Wound swab,K. pneumoniae,,R,0.25,37.5
+ISO-0257,P0176,11/06/2025,Blood,S. aureus,s,S,not done,37.6
+ISO-0258,P0034,20/02/2025,Blood,K. pneumoniae,R,R,2,36.8
+ISO-0259,P0175,15/04/2025,BLOOD,K. pneumoniae,S,R,<=0.06,39.4
+ISO-0260,P0154,04/12/2025,Stool,E. coli,R,R,not done,39.1
+ISO-0261,P0143,14/04/2025,BLOOD,S. aureus,R,R,1,37.0
+ISO-0262,P0275,15/02/2025,Blood,S. aureus,S,S,not done,37.3
+ISO-0263,P0171,13/08/2025,Wound swab,K. pneumoniae,R,S,1,38.8
+ISO-0264,P0247,24/04/2025,Blood,K. pneumoniae,S,R,0.25,36.7
+ISO-0265,P0172,11/02/2025,Urine,S. aureus,S,S,0.25,38.6
+ISO-0266,P0150,09/09/2025,Blood,E. coli,S,R,2,38.4
+ISO-0267,P0033,31/08/2025,Blood,E. coli,R,n/a,1,37.3
+ISO-0268,P0160,07/05/2025,Blood,E. coli,S,S,<=0.06,38.7
+ISO-0269,P0037,01/08/2025,BLOOD,S. aureus,S,R,<=0.06,38.0
+ISO-0270,P0169,04/12/2025,Blood,S. aureus,I,R,0.25,37.8
+ISO-0271,P0035,02/05/2025,urine ,K. pneumoniae,I,R,1,38.0
+ISO-0272,P0181,27/04/2025,Wound swab,E. coli,I,S,not done,37.9
+ISO-0273,P0212,01/11/2025,Stool,S. aureus,R,S,2,36.7
+ISO-0274,P0023,10/04/2025,Blood,S. aureus,S,S,not done,37.8
+ISO-0275,P0114,16/07/2025,Urine,S. aureus,S,n/a,0.25,37.5
+ISO-0276,P0177,22/10/2025,BLOOD,S. aureus,S,S,1,37.5
+ISO-0277,P0080,06/07/2025,Stool,S. aureus,r,S,0.5,38.1
+ISO-0278,P0203,05/09/2025,Urine,E. coli,S,S,not done,37.4
+ISO-0279,P0117,25/09/2025,urine ,E. coli,R,S,0.25,37.8
+ISO-0280,P0222,15/04/2025,Wound swab,E. coli,R,S,2,38.2
+ISO-0281,P0168,29/04/2025,urine ,P. aeruginosa,I,R,>4,37.0
+ISO-0282,P0061,23/01/2025,Stool,E. coli,R,R,1,999.0
+ISO-0283,P0170,01/05/2025,BLOOD,K. pneumoniae,R,S,2,36.9
+ISO-0284,P0135,31/05/2025,Wound swab,E. coli,R,S,0.5,37.5
+ISO-0285,P0046,03/03/2025,Stool,E. coli,S,S,1,38.4
+ISO-0286,P0148,08/05/2025,Stool,K. pneumoniae,R,R,<=0.06,38.1
+ISO-0287,P0269,13/12/2025,Stool,K. pneumoniae,R,S,not done,36.1
+ISO-0288,P0213,19/11/2025,urine ,P. aeruginosa,s,S,2,36.8
+ISO-0289,P0078,31/07/2025,Blood,E. coli,R,R,0.5,38.0
+ISO-0290,P0105,27/11/2025,Stool,K. pneumoniae,R,R,0.5,35.2
+ISO-0291,P0219,23/04/2025,Blood,P. aeruginosa,R,R,<=0.06,37.3
+ISO-0292,P0265,17/07/2025,Urine,S. aureus,R,R,<=0.06,36.6
+ISO-0293,P0205,02/09/2025,Blood,E. coli,R,R,2,37.6
+ISO-0294,P0162,19/12/2025,Stool,S. aureus,R,R,>4,35.7
+ISO-0295,P0125,15/05/2025,urine ,S. aureus,R,S,<=0.06,37.3
+ISO-0296,P0160,29/04/2025,Stool,E. coli,S,S,<=0.06,37.5
+ISO-0297,P0279,05/07/2025,Blood,E. coli,R,R,<=0.06,36.0
+ISO-0298,P0009,13/08/2025,Stool,K. pneumoniae,R,S,1,38.0
+ISO-0299,P0129,20/05/2025,Urine,S. aureus,S,S,1,37.9
+ISO-0300,P0246,18/04/2025,Blood,E. coli,S,S,1,38.2
+ISO-0301,P0179,14/02/2025,Urine,P. aeruginosa,S,R,<=0.06,36.6
+ISO-0302,P0128,19/01/2025,Urine,K. pneumoniae,S,S,0.25,37.8
+ISO-0303,P0148,02/02/2025,BLOOD,K. pneumoniae,s,S,<=0.06,37.5
+ISO-0304,P0047,05/02/2025,Wound swab,K. pneumoniae,R,R,<=0.06,38.3
+ISO-0305,P0144,25/05/2025,BLOOD,K. pneumoniae,S,S,2,38.2
+ISO-0306,P0060,06/01/2025,Urine,E. coli,S,S,<=0.06,37.1
+ISO-0307,P0137,21/10/2025,Blood,P. aeruginosa,S,R,2,37.7
+ISO-0308,P0212,04/02/2025,Wound swab,E. coli,S,R,0.25,38.1
+ISO-0309,P0062,28/12/2025,urine ,K. pneumoniae,I,S,not done,37.5
+ISO-0310,P0167,30/12/2025,Blood,P. aeruginosa,S,S,0.25,38.3
+ISO-0311,P0232,15/12/2025,Stool,E. coli,S,S,1,37.9
+ISO-0312,P0279,01/02/2025,Urine,E. coli,R,R,1,37.8
+ISO-0313,P0276,07/02/2025,Urine,P. aeruginosa,I,S,0.25,37.1
+ISO-0314,P0067,16/11/2025,urine ,E. coli,s,R,0.5,36.9
+ISO-0315,P0213,02/12/2025,Wound swab,K. pneumoniae,,S,2,35.8
+ISO-0316,P0268,24/11/2025,Urine,P. aeruginosa,R,I,1,35.8
+ISO-0317,P0085,04/12/2025,urine ,E. coli,R,S,0.5,36.4
+ISO-0318,P0091,12/07/2025,Blood,E. coli,r,R,2,37.7
+ISO-0319,P0041,28/04/2025,Blood,E. coli,r,R,0.5,36.9
+ISO-0320,P0241,09/07/2025,urine ,E. coli,S,I,1,37.3
+ISO-0321,P0264,11/03/2025,Wound swab,E. coli,R,S,>4,37.8
+ISO-0322,P0028,12/09/2025,urine ,K. pneumoniae,R,S,1,35.4
+ISO-0323,P0145,12/12/2025,Stool,K. pneumoniae,s,R,not done,37.4
+ISO-0324,P0202,01/04/2025,Urine,P. aeruginosa,S,S,2,39.3
+ISO-0325,P0264,25/07/2025,Wound swab,P. aeruginosa,R,S,0.25,37.5
+ISO-0326,P0162,15/04/2025,Wound swab,E. coli,s,R,<=0.06,36.8
+ISO-0327,P0278,15/05/2025,Urine,K. pneumoniae,S,S,not done,37.1
+ISO-0328,P0093,04/01/2025,Wound swab,E. coli,S,S,>4,36.5
+ISO-0329,P0225,16/01/2025,BLOOD,E. coli,R,R,>4,37.8
+ISO-0330,P0267,04/03/2025,BLOOD,E. coli,s,R,<=0.06,39.4
+ISO-0331,P0199,11/03/2025,Wound swab,K. pneumoniae,r,R,>4,39.4
+ISO-0332,P0132,20/07/2025,BLOOD,E. coli,S,n/a,not done,35.9
+ISO-0333,P0082,29/05/2025,Wound swab,P. aeruginosa,,R,2,37.1
+ISO-0334,P0287,22/04/2025,Wound swab,K. pneumoniae,s,S,<=0.06,38.3
+ISO-0335,P0119,09/07/2025,urine ,E. coli,S,R,0.5,37.1
+ISO-0336,P0083,31/10/2025,Stool,K. pneumoniae,r,S,0.5,39.4
+ISO-0337,P0218,30/03/2025,urine ,S. aureus,S,R,0.25,36.7
+ISO-0338,P0013,23/10/2025,Wound swab,K. pneumoniae,S,S,not done,38.3
+ISO-0339,P0111,17/05/2025,Wound swab,K. pneumoniae,R,n/a,>4,37.3
+ISO-0340,P0218,25/05/2025,BLOOD,P. aeruginosa,S,S,>4,36.9
+ISO-0341,P0044,04/10/2025,Blood,E. coli,R,S,<=0.06,35.7
+ISO-0342,P0095,18/09/2025,Stool,P. aeruginosa,R,I,<=0.06,37.7
+ISO-0343,P0025,26/10/2025,Blood,P. aeruginosa,S,R,2,38.4
+ISO-0344,P0156,28/10/2025,BLOOD,E. coli,R,R,not done,38.2
+ISO-0345,P0029,28/10/2025,Wound swab,E. coli,s,I,2,38.3
+ISO-0346,P0057,12/10/2025,Blood,K. pneumoniae,r,S,not done,37.7
+ISO-0347,P0107,24/07/2025,BLOOD,P. aeruginosa,R,R,0.25,37.8
+ISO-0348,P0236,12/12/2025,Wound swab,E. coli,R,n/a,1,38.7
+ISO-0349,P0039,04/06/2025,BLOOD,K. pneumoniae,R,S,1,35.8
+ISO-0350,P0138,18/03/2025,Wound swab,P. aeruginosa,S,R,0.25,38.6
+ISO-0351,P0110,19/02/2025,Wound swab,P. aeruginosa,R,S,>4,37.6
+ISO-0352,P0151,07/08/2025,Stool,S. aureus,,R,>4,36.4
+ISO-0353,P0096,24/05/2025,Urine,K. pneumoniae,,S,>4,37.8
+ISO-0354,P0242,20/06/2025,BLOOD,E. coli,R,S,<=0.06,35.9
+ISO-0355,P0105,08/04/2025,BLOOD,P. aeruginosa,R,S,0.25,38.2
+ISO-0356,P0292,02/01/2025,Blood,K. pneumoniae,R,R,0.5,37.4
+ISO-0357,P0285,17/12/2025,urine ,P. aeruginosa,S,S,<=0.06,36.8
+ISO-0358,P0029,19/09/2025,Urine,S. aureus,S,S,1,39.1
+ISO-0359,P0282,13/03/2025,BLOOD,K. pneumoniae,S,S,1,35.8
+ISO-0360,P0070,01/02/2025,BLOOD,E. coli,R,S,0.25,39.0
+ISO-0361,P0132,12/02/2025,Blood,K. pneumoniae,S,R,0.5,38.4
+ISO-0362,P0263,09/03/2025,urine ,S. aureus,S,n/a,2,36.5
+ISO-0363,P0113,19/08/2025,Stool,P. aeruginosa,S,R,0.25,37.3
+ISO-0364,P0178,01/10/2025,Wound swab,K. pneumoniae,S,R,not done,36.5
+ISO-0365,P0126,07/04/2025,Blood,P. aeruginosa,R,S,2,36.5
+ISO-0366,P0208,07/12/2025,Stool,E. coli,R,R,0.25,39.8
+ISO-0367,P0232,17/07/2025,urine ,P. aeruginosa,S,n/a,0.25,36.8
+ISO-0368,P0164,23/09/2025,Stool,E. coli,I,n/a,<=0.06,37.7
+ISO-0369,P0191,18/11/2025,urine ,E. coli,R,S,<=0.06,38.4
+ISO-0370,P0094,19/11/2025,Urine,S. aureus,R,S,>4,37.3
+ISO-0371,P0148,27/09/2025,urine ,P. aeruginosa,S,S,2,36.9
+ISO-0372,P0219,07/07/2025,BLOOD,E. coli,R,S,1,37.7
+ISO-0373,P0046,19/01/2025,Urine,K. pneumoniae,R,n/a,1,37.6
+ISO-0374,P0208,27/06/2025,BLOOD,K. pneumoniae,S,S,<=0.06,36.7
+ISO-0375,P0060,09/06/2025,Blood,P. aeruginosa,R,R,not done,37.7
+ISO-0376,P0201,14/04/2025,urine ,K. pneumoniae,S,n/a,not done,36.6
+ISO-0377,P0108,16/05/2025,Blood,E. coli,R,n/a,0.5,37.2
+ISO-0378,P0132,26/01/2025,BLOOD,E. coli,S,R,not done,37.8
+ISO-0379,P0250,06/09/2025,Wound swab,K. pneumoniae,R,S,0.5,38.5
+ISO-0380,P0093,03/03/2025,BLOOD,E. coli,R,R,>4,37.1
+ISO-0381,P0256,11/12/2025,BLOOD,P. aeruginosa,S,S,not done,36.4
+ISO-0382,P0191,23/03/2025,urine ,K. pneumoniae,S,S,1,37.5
+ISO-0383,P0045,30/05/2025,Wound swab,K. pneumoniae,S,R,0.5,37.9
+ISO-0384,P0203,15/11/2025,Blood,E. coli,R,S,not done,38.4
+ISO-0385,P0237,15/12/2025,Blood,S. aureus,R,S,>4,37.5
+ISO-0386,P0270,01/01/2025,Stool,S. aureus,R,n/a,>4,36.6
+ISO-0387,P0219,27/09/2025,urine ,E. coli,S,S,not done,36.6
+ISO-0388,P0057,04/06/2025,urine ,P. aeruginosa,s,R,not done,36.3
+ISO-0389,P0267,28/08/2025,Urine,E. coli,S,S,0.25,37.6
+ISO-0390,P0219,21/12/2025,Stool,E. coli,R,R,0.5,36.6
+ISO-0391,P0077,11/12/2025,BLOOD,E. coli,S,S,2,37.1
+ISO-0392,P0082,27/11/2025,BLOOD,S. aureus,S,R,>4,38.3
+ISO-0393,P0087,07/06/2025,Urine,E. coli,S,R,2,37.1
+ISO-0394,P0135,10/02/2025,Stool,S. aureus,R,I,not done,37.6
+ISO-0395,P0008,01/02/2025,Wound swab,S. aureus,,S,<=0.06,37.7
+ISO-0396,P0101,29/09/2025,BLOOD,E. coli,s,R,0.25,36.7
+ISO-0397,P0108,01/06/2025,Blood,S. aureus,I,R,0.25,37.0
+ISO-0398,P0282,15/11/2025,Wound swab,S. aureus,,R,2,38.1
+ISO-0399,P0168,05/07/2025,Blood,K. pneumoniae,R,n/a,not done,36.5
+ISO-0400,P0092,10/03/2025,Wound swab,S. aureus,S,R,0.25,38.7
+ISO-0399,P0168,05/07/2025,Blood,K. pneumoniae,R,n/a,not done,36.5
+ISO-0126,P0042,29/09/2025,BLOOD,P. aeruginosa,s,S,<=0.06,37.7
+ISO-0329,P0225,16/01/2025,BLOOD,E. coli,R,R,>4,37.8
+ISO-0340,P0218,25/05/2025,BLOOD,P. aeruginosa,S,S,>4,36.9
+ISO-0173,P0179,10/10/2025,Stool,S. aureus,R,S,0.25,36.2
+ISO-0343,P0025,26/10/2025,Blood,P. aeruginosa,S,R,2,38.4
+ISO-0198,P0087,11/06/2025,BLOOD,K. pneumoniae,,S,0.25,37.5
+ISO-0292,P0265,17/07/2025,Urine,S. aureus,R,R,<=0.06,36.6
