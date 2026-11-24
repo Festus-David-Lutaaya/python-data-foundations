@@ -1,0 +1,4 @@
+arm,n,sbp_baseline,sbp_6m,sbp_change,sbp_change_sd,glucose_baseline,glucose_6m,glucose_change,glucose_change_sd
+Usual care,145,142.73,142.19,-0.54,8.12,7.54,7.56,0.03,0.58
+Diet,140,141.67,138.27,-3.4,7.99,7.41,6.99,-0.42,0.57
+Diet + exercise,160,142.43,133.38,-9.05,8.04,7.33,6.53,-0.8,0.54
